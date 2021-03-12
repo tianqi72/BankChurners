@@ -2,6 +2,7 @@
 Classify churning customers using supervised machine learning algorithms
 
 Algorithms:
+
 KNN
 
 SVC
